@@ -1,3 +1,11 @@
+## [1.0.4] - 2026-05-26
+
+- Added remark-gfm support for enhanced Markdown rendering in chat messages
+- Optimized AI chat service streaming/flushing mechanism
+- Upgraded Node to v24.15.0
+- Upgraded Chromium to v148.0.7778.97
+- Upgraded V8 to v14.8
+
 ## [1.0.3] - 2026-04-08
 - Added AI chat support.
 
