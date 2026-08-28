@@ -1,3 +1,7 @@
+## [1.0.5] - 2026-08-27
+- Added license management
+- Fixed bugs for better stability
+
 ## [1.0.4] - 2026-05-26
 
 - Added remark-gfm support for enhanced Markdown rendering in chat messages
