@@ -1,6 +1,6 @@
-## [1.0.5] - 2026-08-27
+## [1.0.5] - 2026-08-28
 - Added license management
-- Fixed bugs for better stability
+- Fixed Help menu missing and Linux window activation issues introduced in v1.0.4
 
 ## [1.0.4] - 2026-05-26
 
